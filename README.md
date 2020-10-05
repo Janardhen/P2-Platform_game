@@ -49,9 +49,9 @@ It was nice to see how a same method is done in many ways. I still need to figur
 - [x] B-8: Include a clear example of juice and describe it in the README.md.
 - [ ] A-1: Include two clear examples of juice and describe them in the README.md.
 - [x] A-2: Earn two stars.
-- [x]⭐ Animate the main character using either AnimatedSprite or cutout animation
-- [x]⭐ Include parallax scrolling in the background.
-- [x]⭐ Include tiles that can be passed in one direction, such as being able to jump up through a tile and land atop it.
+- [x] ⭐ Animate the main character using either AnimatedSprite or cutout animation
+- [x] ⭐ Include parallax scrolling in the background.
+- [x] ⭐ Include tiles that can be passed in one direction, such as being able to jump up through a tile and land atop it.
 
 I hope to get a B minus
 
