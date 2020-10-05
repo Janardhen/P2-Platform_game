@@ -2,7 +2,7 @@
 iteration 2 of Project 2
 
 
-##How to Play
+## How to Play
 
 Click this link to play the game. [Play game](https://bsu-cs315.github.io/P2-Platform_game/)
 
@@ -52,6 +52,7 @@ It was nice to see how a same method is done in many ways. I still need to figur
 - [x]⭐ Animate the main character using either AnimatedSprite or cutout animation
 - [x]⭐ Include parallax scrolling in the background.
 - [x]⭐ Include tiles that can be passed in one direction, such as being able to jump up through a tile and land atop it.
+
 I hope to get a B minus
 
 # Third Party Assets
