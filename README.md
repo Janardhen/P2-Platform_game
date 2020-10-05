@@ -57,9 +57,9 @@ I hope to get a B minus
 
 # Third Party Assets
 
-Enemy Asset is done by artist Michele 'Buch' Bucelli licensed under CC0 1.0 Universal (CC0 1.0) from [https://opengameart.org/users/buch]
+Enemy Asset is done by artist Michele 'Buch' Bucelli licensed under CC0 1.0 Universal (CC0 1.0) from (opengameart)[ https://opengameart.org/users/buch ]
 
 Images are from "Physics Assets Pack". Created by kenney.nl,
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Source: https://www.kenney.nl/assets/physics-assets
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). (Source)[https://www.kenney.nl/assets/physics-assets]
 
 
