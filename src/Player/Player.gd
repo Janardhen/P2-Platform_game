@@ -107,5 +107,3 @@ func _on_Timer_timeout():
 	get_tree().change_scene("res://src/Titlescreen/Titlescreen.tscn")
 	
 
-func crown_power_up():
-	fireball_power = 2
