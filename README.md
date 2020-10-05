@@ -15,7 +15,7 @@ Right Arrow - Move Right
 Spacebar - Jump
 Tab - Attack
 
-Juice Example in the project
+Juice(one)Example in the project
 
 I have added Screenshake in this project. I feel it to be interesting especially when the user is bored with the game and a shake pops out, giving a good
 feel about the game. 
@@ -44,10 +44,10 @@ It was nice to see how a same method is done in many ways. I still need to figur
 - [x] B-3: The source code and project structure comply with our adopted style guides.
 - [x] B-4: There is a sprite element in the level that the player can interact with, such as a collectible, an enemy, a book, or a switch.
 - [x] B-5: The camera follows the character through a world that is larger than one screen.
-- []  B-6: Include sound effects and music.
-- [x] B-7: Include a HUD that tracks game-appropriate data such as score or time remaining.
+- [ ]  B-6: Include sound effects and music.
+- [ ] B-7: Include a HUD that tracks game-appropriate data such as score or time remaining.
 - [x] B-8: Include a clear example of juice and describe it in the README.md.
-- [] A-1: Include two clear examples of juice and describe them in the README.md.
+- [ ] A-1: Include two clear examples of juice and describe them in the README.md.
 - [x] A-2: Earn two stars.
 - [x]⭐ Animate the main character using either AnimatedSprite or cutout animation
 - [x]⭐ Include parallax scrolling in the background.
