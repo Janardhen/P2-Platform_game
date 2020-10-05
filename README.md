@@ -8,7 +8,7 @@ Click this link to play the game. [Play game](https://bsu-cs315.github.io/P2-Pla
 
 Pass through the enemies across the path and reach the flag which is at the end to win the game.
 
-Controls:
+### Controls:
 
 Left Arrow - Move left
 Right Arrow - Move Right
