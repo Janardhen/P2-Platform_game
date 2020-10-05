@@ -11,11 +11,15 @@ Pass through the enemies across the path and reach the flag which is at the end 
 ### Controls:
 
 Left Arrow - Move left
+
 Right Arrow - Move Right
+
 Spacebar - Jump
+
 Tab - Attack
 
-Juice(one)Example in the project
+
+#### Juice(one)Example in the project
 
 I have added Screenshake in this project. I feel it to be interesting especially when the user is bored with the game and a shake pops out, giving a good
 feel about the game. 
