@@ -4,7 +4,7 @@ iteration 2 of Project 2
 
 ## How to Play
 
-Click this link to play the game. [Play game](https://bsu-cs315.github.io/P2-Platform_game/)
+Click this link to play the game. [Play game](https://janardhen.github.io/P2-Platform_game/)
 
 Pass through the enemies across the path and reach the flag which is at the end to win the game.
 
